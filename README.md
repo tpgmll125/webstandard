@@ -5,5 +5,5 @@
 <a href="http://tpgmll125.dothome.co.kr/">VIEW</a>
 
 <h2>웹 표준 사이트 보기</h2>
-<p>2018.12.28</p>
+<p>2018.12.28 </p>
 <a href="https://tpgmll125.github.io/webstandard/">VIEW</a>
